@@ -1,0 +1,2 @@
+This project hasn't been checked for windows compilation, and relies heavily on static libraries due to some trouble getting GLEW to work on windows.
+The majority of this is uncommented, untested code, so.... good luck. I would suggest starting in IEngine.cpp and going down from the update and draw functions.
